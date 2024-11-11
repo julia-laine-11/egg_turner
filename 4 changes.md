@@ -15,3 +15,8 @@ Another issue I had was it was zip tied to the ground, so on day 15 (the day you
 Other than those two, I really liked how I added an LED to show it was running, even though it was still. I could add a binary counter of the amount of times it has rotated.
 
 Also, the chicks are super cute!
+
+![image](https://github.com/user-attachments/assets/7b3cfa7b-c5cf-448c-9504-3c35cfb2165e)
+![image](https://github.com/user-attachments/assets/c5bc01b3-30b5-41a0-bdf0-082a4faa9914)
+![image](https://github.com/user-attachments/assets/8d958784-a4f5-4d32-9964-e700d19aff9f)
+
