@@ -16,3 +16,16 @@ I also built them their own house (my own design, with my dad's help with power 
 ![image](https://github.com/user-attachments/assets/0a97051f-d2ef-444f-8908-fa5bdbb0b65e)
 
 *The beginning of my quail hutch*
+
+## Incubation
+During incubation, [eggs must be rotated to keep the chicks healthy](https://www.brinsea.com/t-turningeggs.aspx). Touching the eggs can introduce problems though, like [introducing bacteria or shaking the chicks too much](https://incubatorwarehouse.com/pages/incubating-eggs-hard-questions). 
+
+The eggs also had to be turned 3 times a day. All 28 of them. This was super tedious (and also scary since I was so nervous about hurting them!) since there were so many eggs and I had to do it both quickly (so I didn't let the hot air out) and carefully so I didn't hurt the eggs.
+
+To add to this, 12 more eggs showed up. I still don't know why, but there were so many eggs in the incubator and it was really crazy.
+
+![image](https://github.com/user-attachments/assets/8ef6e743-fa5a-48fc-b287-0391d568bdb0)
+
+*My incubator set up. It did not come with a fan, so I installed my own with pipe cleaners to avoid getting hot spots inside.*
+
+
