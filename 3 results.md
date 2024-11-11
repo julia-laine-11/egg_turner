@@ -28,16 +28,7 @@ Hatch day came:
 
 ## Results
 
-Overall, this project got me into electrical engineering. I got super interested in coding and electronics after I wired up and programmed the servo. I also started using Fusion360 for CAD since it is free for students. I tried to make a drone but that low-key failed because I didn't know what I was doing and I wasn't passionate enough about the drone to put in the hours to research. 
-
-![image](https://github.com/user-attachments/assets/7204cd23-362e-47e9-9115-204a835170a5) 
-
-![image](https://github.com/user-attachments/assets/7cd07795-3c27-4846-8aaf-1b77defef78d) 
-![image](https://github.com/user-attachments/assets/95711efd-9dbe-41ea-891b-72cb30184606)
-
-- The gyro was off center
-- The drone was super heavy
-- My tolerances weren't the best so the gears slipped occasinally
+Overall, this project got me into electrical engineering. I got super interested in coding and electronics after I wired up and programmed the servo. I also started using Fusion360 for CAD since it is free for students.
 
 I took my failures as a learning experience and I moved on to the robot dog when I saw the files of it online.
 
@@ -47,10 +38,7 @@ I still love my quail, even though I no longer want to be a vet. Unfortunately, 
 
 *This is Leg, the same quail from earlier with the cowboy hat on*
 
-
-
 ![image](https://github.com/user-attachments/assets/f2787d67-e4d4-4c0b-ad8e-3639ae36453c) ![image](https://github.com/user-attachments/assets/820c6541-a515-460d-bff4-0238473f030c)
 
 
 *This is Toaster as an adult in her first and second snows*
-
