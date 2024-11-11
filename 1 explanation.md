@@ -17,10 +17,18 @@ I also built them their own house (my own design, with my dad's help with power 
 
 *The beginning of my quail hutch*
 
-## Incubation
-During incubation, [eggs must be rotated to keep the chicks healthy](https://www.brinsea.com/t-turningeggs.aspx). Touching the eggs can introduce problems though, like [introducing bacteria or shaking the chicks too much](https://incubatorwarehouse.com/pages/incubating-eggs-hard-questions). 
+# Incubation
 
-The eggs also had to be turned 3 times a day. All 28 of them. This was super tedious (and also scary since I was so nervous about hurting them!) since there were so many eggs and I had to do it both quickly (so I didn't let the hot air out) and carefully so I didn't hurt the eggs.
+## General Incubation needs:
+
+- During incubation, [eggs must be rotated to keep the chicks healthy](https://www.brinsea.com/t-turningeggs.aspx). Touching the eggs can introduce problems though, like [introducing bacteria or shaking the chicks too much](https://incubatorwarehouse.com/pages/incubating-eggs-hard-questions). 
+- The incubator must stay at [99.5 F or 37.5 C](https://www.southwestgamebirds.com/raising-quail/#:~:text=Incubation,fuse%20to%20the%20albumin%20membrane.)
+- The humidity must stay around [50% humidity for most of the incubation](https://www.southwestgamebirds.com/raising-quail/#:~:text=Incubating%20Coturnix%20Eggs%3A,see%20how%20much%20they%20change.), then get raised before hatching.
+- A still air incubator is just an incubator without a fan. Fans are needed to move the air around so there is even heating and humidity. I had a still air incubator, but I added a fan on my own.
+
+## My eggs
+
+The eggs had to be turned 3 times a day. All 28 of them. This was super tedious (and also scary since I was so nervous about hurting them!) since there were so many eggs and I had to do it both quickly (so I didn't let the hot air out) and carefully so I didn't hurt the eggs.
 
 To add to this, 12 more eggs showed up. I still don't know why, but there were so many eggs in the incubator and it was really crazy.
 
@@ -28,4 +36,4 @@ To add to this, 12 more eggs showed up. I still don't know why, but there were s
 
 *My incubator set up. It did not come with a fan, so I installed my own with pipe cleaners to avoid getting hot spots inside.*
 
-
+With this many eggs, I immediately thought "how can I make this more efficient" because it was a super easy but repetitive task. I knew I could automate it.
