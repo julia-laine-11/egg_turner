@@ -12,7 +12,7 @@ I cut a circle piece of cardboard. The floor of the incubator is a plastic grid 
 It rotated by using a Lego Mindstorm motor and a Lego wheel. 
 
 Problems with cardboard spinning wheel:
-  - Incubators have channels of water to keep it [around 60ish% humidity](https://extension.psu.edu/programs/4-h/get-involved/teachers/embryology/teacher-resources/supporting-subject-matter/incubation/science-of-incubation/humidity-and-ventilation#:~:text=The%20relative%20humidity%20of%20the,be%20nearer%2065%2D70%20percent.), and cardboard does not like humidity. The cardboard wheel got soft and failed.
+  - Remember how incubators have to stay humid? Yeah. Cardboard doesn't like humidity. The cardboard became soft in the incubator.
 
 ### Plexiglass circle
 
@@ -40,3 +40,7 @@ By the time I got the new egg turner working, the first round of quail had alrea
 *My first batch of babies*
 
 I let the first batch grow up some and then I hatched their children. They only take 6-8 weeks to lay eggs. They only live [a few years in the wild](https://genomics.senescence.info/species/entry.php?species=Coturnix_japonica#:~:text=AnAge%20entry%20for%20Coturnix%20japonica&text=The%20Japanese%20quail%20displays%20a,%2D3%20years%20%5B0028%5D.) so they have to become adults quickly. I don't have the site but I read that if you don't raise quail with other colors of quail then they will be aggressive towards the new color. I was worried all of the new batch would be brown since it is the dominant gene so I ordered a small batch from the same seller.
+
+![image](https://github.com/user-attachments/assets/2d9130ae-eb33-4cc2-a7db-6916157917b9)
+
+*This is Sand. She is named that because she loved sand. Old world quail (these guys) are from a more deserty area so they bathe in sand instead of water*
