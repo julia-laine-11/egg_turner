@@ -10,7 +10,7 @@ One issue I had was the eggs had to be carefully placed in since the holes were 
 
 Another issue I had was it was zip tied to the ground, so on day 15 (the day you stop rotating the eggs) I had to take all of them out to cut the zip ties. This was probably not the best since the membrane inside can shrink wrap the chick if it gets cold and/or dry while outside of the incubator. I could easily fix this by making the feet on the base larger, although it would cut down on how easily I can store it.
 
-### Good things
+## Good things
 
 Other than those two, I really liked how I added an LED to show it was running, even though it was still. I could add a binary counter of the amount of times it has rotated.
 
